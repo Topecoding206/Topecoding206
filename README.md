@@ -19,5 +19,5 @@ Here are some of the programming languages and tools I've worked with:
 
 ## GitHub Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)](https://github.com/topecoding206)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)](https://github.com/Topecoding206)
 
