@@ -16,6 +16,9 @@ Here are some of the programming languages and tools I've worked with:
 - Bootstrap
 - Tailwind
 - git/github
+- Express
+- MongoDb
+- PostgreSQL
 
 ## GitHub Stats
 
