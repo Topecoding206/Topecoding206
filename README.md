@@ -10,11 +10,11 @@ Hi there! 👋 I'm Tope Anjorin. I am a junior software developer who is dedicat
 Here are some of the programming languages and tools I've worked with:
 
 - JavaScript
-- HTML/CSS
+- HTML
+- CSS
 - React
-- Bootstrap
-- Tailwind
-- git/github
+- git
+- github
 - ExpressJS
 - MongoDb
 - PostgreSQL
